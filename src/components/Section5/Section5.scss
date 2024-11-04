@@ -1,0 +1,26 @@
+.card3{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    text-align: center;
+
+}
+.biography{
+    margin-top: 40px;
+    margin-bottom: 20px;
+    border: 1px solid none;
+    border-radius: 10px;
+    width: 300px;
+    
+
+    img{
+        width: 100px;
+        padding-bottom: 10px;
+    }
+
+    p{
+        padding-top: 20px;
+        padding-bottom: 20px;
+        font-size: 20px;
+    }
+}
